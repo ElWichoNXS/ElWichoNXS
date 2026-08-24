@@ -1,0 +1,90 @@
+{
+    "ROTATIVA": {
+        "dias_op": 5,
+        "turnos_dia": 1,
+        "hrs_turno": 8.0,
+        "s_fmt": 4.0,
+        "s_ref": 0.75,
+        "h_mant": 2.0,
+        "h_cap": 0.0,
+        "h_fer": 0.0,
+        "h_otr": 0.15
+    },
+    "PASTILLAS": {
+        "dias_op": 5,
+        "turnos_dia": 1,
+        "hrs_turno": 8.0,
+        "s_fmt": 1.5,
+        "s_ref": 0.17,
+        "h_mant": 2.0,
+        "h_cap": 0.0,
+        "h_fer": 0.0,
+        "h_otr": 0.15
+    },
+    "DESINFECTANTE": {
+        "dias_op": 5,
+        "turnos_dia": 1,
+        "hrs_turno": 8.0,
+        "s_fmt": 1.0,
+        "s_ref": 0.17,
+        "h_mant": 2.0,
+        "h_cap": 0.0,
+        "h_fer": 0.0,
+        "h_otr": 0.15
+    },
+    "TANQUE": {
+        "dias_op": 5,
+        "turnos_dia": 1,
+        "hrs_turno": 8.0,
+        "s_fmt": 4.0,
+        "s_ref": 0.25,
+        "h_mant": 2.0,
+        "h_cap": 0.0,
+        "h_fer": 0.0,
+        "h_otr": 0.15
+    },
+    "VARIOS": {
+        "dias_op": 5,
+        "turnos_dia": 1,
+        "hrs_turno": 8.0,
+        "s_fmt": 0.5,
+        "s_ref": 0.5,
+        "h_mant": 2.0,
+        "h_cap": 0.0,
+        "h_fer": 0.0,
+        "h_otr": 0.15
+    },
+    "DESFVAR": {
+        "dias_op": 5,
+        "turnos_dia": 1,
+        "hrs_turno": 8.0,
+        "s_fmt": 1.0,
+        "s_ref": 0.25,
+        "h_mant": 2.0,
+        "h_cap": 0.0,
+        "h_fer": 0.0,
+        "h_otr": 0.15
+    },
+    "DOYPACK": {
+        "dias_op": 5,
+        "turnos_dia": 1,
+        "hrs_turno": 8.0,
+        "s_fmt": 1.0,
+        "s_ref": 0.5,
+        "h_mant": 2.0,
+        "h_cap": 0.0,
+        "h_fer": 0.0,
+        "h_otr": 0.15
+    },
+    "DIFUSORES": {
+        "dias_op": 5,
+        "turnos_dia": 2,
+        "hrs_turno": 8.0,
+        "s_fmt": 1.5,
+        "s_ref": 0.5,
+        "h_mant": 2.0,
+        "h_cap": 0.0,
+        "h_fer": 0.0,
+        "h_otr": 0.15
+    }
+}
